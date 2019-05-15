@@ -1,0 +1,614 @@
+
+invaders.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alien
+  rotate: false
+  xy: 1006, 1012
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 0
+aliendie
+  rotate: false
+  xy: 1006, 1012
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 0
+alien
+  rotate: false
+  xy: 376, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 1
+aliendie
+  rotate: false
+  xy: 1006, 1002
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 1
+aliendie
+  rotate: false
+  xy: 390, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 2
+aliendie
+  rotate: false
+  xy: 1006, 992
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 3
+aliendie
+  rotate: false
+  xy: 404, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 4
+aliendie
+  rotate: false
+  xy: 1006, 982
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 5
+aliendie
+  rotate: false
+  xy: 418, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 6
+aliendie
+  rotate: false
+  xy: 1006, 972
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 7
+aliendie
+  rotate: false
+  xy: 432, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 8
+alienshoot
+  rotate: false
+  xy: 1020, 1013
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 0
+alienshoot
+  rotate: false
+  xy: 1020, 1004
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 1
+carga_prueba
+  rotate: false
+  xy: 2, 520
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 0
+carga_prueba
+  rotate: false
+  xy: 2, 18
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 1
+carga_prueba
+  rotate: false
+  xy: 504, 520
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 2
+carga_prueba
+  rotate: false
+  xy: 504, 18
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 3
+naveidle
+  rotate: false
+  xy: 70, 4
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: 0
+naveidle
+  rotate: false
+  xy: 104, 4
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: 1
+naveidle
+  rotate: false
+  xy: 138, 4
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: 2
+naveidle
+  rotate: false
+  xy: 172, 4
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: 3
+naveidle
+  rotate: false
+  xy: 206, 4
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: 4
+naveleft
+  rotate: false
+  xy: 240, 6
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: 0
+naveleft
+  rotate: false
+  xy: 274, 6
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: 1
+naveright
+  rotate: false
+  xy: 308, 6
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: 0
+naveright
+  rotate: false
+  xy: 342, 6
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: 1
+naveshoot
+  rotate: false
+  xy: 2, 2
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: 0
+naveshoot
+  rotate: false
+  xy: 36, 2
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 1020, 995
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 0
+shoot
+  rotate: false
+  xy: 1020, 986
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 1020, 977
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 2
+shoot
+  rotate: false
+  xy: 1020, 968
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 3
+shoot
+  rotate: false
+  xy: 446, 9
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 4
+shoot
+  rotate: false
+  xy: 1006, 963
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 5
+shoot
+  rotate: false
+  xy: 450, 9
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 6
+shoot
+  rotate: false
+  xy: 1006, 954
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 7
+shoot
+  rotate: false
+  xy: 1010, 963
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 8
+shoot
+  rotate: false
+  xy: 454, 9
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 9
+shoot
+  rotate: false
+  xy: 1006, 945
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 10
+shoot
+  rotate: false
+  xy: 1010, 954
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 11
+shoot
+  rotate: false
+  xy: 1010, 954
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 12
+shoot
+  rotate: false
+  xy: 1014, 963
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 13
+shoot
+  rotate: false
+  xy: 458, 9
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: 14
+
+invaders2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 4
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 5
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 6
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 7
+
+invaders3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 8
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 9
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 10
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 11
+
+invaders4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 12
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 13
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 14
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 15
+
+invaders5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 16
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 17
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 18
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 19
+
+invaders6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 20
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 21
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 22
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 23
+
+invaders7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 24
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 25
+carga_prueba
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 26
+carga_prueba
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 27
+
+invaders8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boton_android_derecha
+  rotate: false
+  xy: 504, 131
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+boton_android_disparo
+  rotate: false
+  xy: 504, 30
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+boton_android_izquierda
+  rotate: false
+  xy: 654, 131
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+carga_prueba
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 28
+carga_prueba
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: 29
+space
+  rotate: false
+  xy: 504, 748
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 0
+space
+  rotate: false
+  xy: 504, 490
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 1
+space
+  rotate: false
+  xy: 504, 232
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 2
+
+invaders9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+space
+  rotate: false
+  xy: 2, 518
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 3
+space
+  rotate: false
+  xy: 2, 260
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 4
+space
+  rotate: false
+  xy: 388, 518
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 5
+space
+  rotate: false
+  xy: 2, 2
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 6
+space
+  rotate: false
+  xy: 388, 260
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: 7
