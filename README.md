@@ -7,5 +7,5 @@
 6. LoadingScreen con una barra de carga (HE AÑADIDO UNOS ASSETS DE PRUEBA DE 500x500 PARA QUE SE APRECIE LA BARRA CUANDO CARGUE EL JUEGO)
 7. Los aliens bajan cada vez que llegan al lateral de la pantalla.
 ```
-LINK_DE_GITHUB
+https://github.com/chocalata/M08SpaceInvaders/edit/master
 ```
