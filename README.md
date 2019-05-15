@@ -1,4 +1,4 @@
-#Cambios:
+# Cambios:
 1. Ahora se puede jugar en un dispositivo android con los 3 controles necesarios para ello.
 2. Se puede pulsar más de una tecla a la vez en Android.
 3. Al acabar con todos los aliens no da fallos la aplicación.
