@@ -6,3 +6,6 @@
 5. Ahora si en juego para escritorio haces click en los lugares donde se colocan los botones para android no hace nada.
 6. LoadingScreen con una barra de carga (HE AÑADIDO UNOS ASSETS DE PRUEBA DE 500x500 PARA QUE SE APRECIE LA BARRA CUANDO CARGUE EL JUEGO)
 7. Los aliens bajan cada vez que llegan al lateral de la pantalla.
+```
+LINK_DE_GITHUB
+```
